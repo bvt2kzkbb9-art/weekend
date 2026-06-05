@@ -1,0 +1,8 @@
+{
+  "name": "Weekend Music Social",
+  "short_name": "WMS",
+  "description": "Społeczność DJ-ów, producentów i fanów muzyki.",
+  "theme_color": "#8B5CF6",
+  "background_color": "#0F172A",
+  "display": "standalone"
+}
